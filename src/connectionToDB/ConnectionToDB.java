@@ -14,7 +14,7 @@ public class ConnectionToDB {
                 "root", "root");
 
         if (conn == null) {
-            System.out.println("Нет соединения с БД!");
+            System.out.println("No database connection!");
             System.exit(0);
         }
         Statement stmt = conn.createStatement();
