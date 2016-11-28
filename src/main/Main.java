@@ -8,7 +8,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         //for creating DB
 //        CREATE TABLE `forwell`.`authorandbook` (
 //  `ID` INT NOT NULL AUTO_INCREMENT,

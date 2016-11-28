@@ -4,9 +4,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- * Created by Ультрамар on 25.11.2016.
- */
+
 public class ConnectionToDB {
 
     public Statement getConnection() throws ClassNotFoundException, SQLException {

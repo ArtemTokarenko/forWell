@@ -4,9 +4,6 @@ import objectData.ObjectForCoincide;
 
 import java.util.ArrayList;
 
-/**
- * Created by Ультрамар on 27.11.2016.
- */
 public class Utila {//This class was made for reduce code
     public static void cicleForObjectForCoincide(ArrayList<ObjectForCoincide> arrayOfCoincide) {
         System.out.println("we have few books with such name please choose one by typing a number of book:");

@@ -5,9 +5,6 @@ import objectData.ObjectForCoincide;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Created by Ультрамар on 27.11.2016.
- */
 public class MainService {
     public  static void add(String s){//This class shares String to Strings and give Strings to addToDataBase()
 

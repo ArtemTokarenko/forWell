@@ -1,8 +1,5 @@
 package objectData;
 
-/**
- * Created by Ультрамар on 27.11.2016.
- */
 public class ObjectForCoincide {//This Object made to simplify pickuping colums from database
 
     Integer Id;
